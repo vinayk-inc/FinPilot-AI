@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+plotly
+yfinance
+python-dotenv
+google-genai
+openpyxl
+fastapi
+uvicorn[standard]
+python-multipart
+
